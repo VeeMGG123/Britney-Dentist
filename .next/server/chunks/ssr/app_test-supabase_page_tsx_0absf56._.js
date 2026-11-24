@@ -1,0 +1,3 @@
+module.exports=[34294,a=>{"use strict";var b=a.i(87924),c=a.i(72131),d=a.i(69240);a.s(["default",0,function(){let[a,e]=(0,c.useState)("جاري الاتصال...");return(0,c.useEffect)(()=>{(async()=>{let a=(0,d.createClient)(),{data:b,error:c}=await a.from("services").select("*");c?e("❌ حصل خطأ: "+c.message):e(`✅ الاتصال شغال — عدد الخدمات: ${b.length}`)})()},[]),(0,b.jsx)("main",{className:"min-h-screen bg-black text-white flex items-center justify-center",children:(0,b.jsx)("h1",{className:"text-3xl font-bold",children:a})})}])}];
+
+//# sourceMappingURL=app_test-supabase_page_tsx_0absf56._.js.map

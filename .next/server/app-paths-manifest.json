@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/accepted/page": "app/admin/accepted/page.js",
+  "/admin/completed/page": "app/admin/completed/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/pending/page": "app/admin/pending/page.js",
+  "/admin/rejected/page": "app/admin/rejected/page.js",
+  "/admin/reviews/page": "app/admin/reviews/page.js",
+  "/admin/working-hours/page": "app/admin/working-hours/page.js",
+  "/api/send-appointment-email/route": "app/api/send-appointment-email/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/test-supabase/page": "app/test-supabase/page.js"
+}
